@@ -1,4 +1,4 @@
-#Modulo 10
+## Modulo 10
 
 ![image](https://github.com/user-attachments/assets/834c8b50-016f-4dc0-b12e-ab9e388ad119)
 
